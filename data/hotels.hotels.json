@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "name": "Hotel Oasis",
+  "logo": "https://example.com/logos/oasislogo.png",
+  "description": "Un refugio urbano con spa, piscina y gastronomía internacional.",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "country": "Argentina",
+  "city": "Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "name": "Montaña Verde",
+  "logo": "https://example.com/logos/montana.png",
+  "description": "Cabañas boutique en la naturaleza con atención personalizada.",
+  "languages": [
+    "es"
+  ],
+  "country": "Chile",
+  "city": "Pucón"
+},
+{
+  "_id": {
+    "$oid": "6649189a5c8e4a001fa3a003"
+  },
+  "name": "Sol & Arena Resort",
+  "logo": "https://example.com/logos/solarena.png",
+  "description": "Resort frente al mar ideal para familias y eventos.",
+  "languages": [
+    "es",
+    "pt",
+    "en"
+  ],
+  "country": "Brasil",
+  "city": "Florianópolis"
+}]

@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "681fbe67b394d30e22be22ce"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "name": "Ana Torres",
+  "userName": "ana_admin",
+  "email": "ana@hoteloasis.com",
+  "role": "admin",
+  "password": "$2b$10$Gvbvdt6aTCn.jEa/HeYHAumTwrqsd/QhK9dTChDweRMEZPl/i59Eu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fbf4bb394d30e22be22d5"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "name": "Carlos Rodriguez",
+  "userName": "hab206",
+  "email": "carlos@gmail.com",
+  "role": "user",
+  "password": "$2b$10$ip6dmOaA39v0ZAn23OkYZO.d82r5ifqvRctxLxkUx4eRnq/Vjcpka",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fbf95b394d30e22be22d8"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "name": "Lucía Benítez",
+  "userName": "lucia_admin",
+  "email": "lucia@montanaverde.com",
+  "role": "admin",
+  "password": "$2b$10$hbmFbnXNBQ0rbDjQnm0ijO1uYBwxhbgHsAaLLqt/aQP0zrx6CmhiG",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fbfb2b394d30e22be22db"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "name": "Valeria Staff",
+  "userName": "valeria_staff",
+  "email": "valeria@montanaverde.com",
+  "role": "staff",
+  "password": "$2b$10$tsoAxbo.tsehXfpJU.mtpOROPzD92pO12zgH8cWT3w7pP039tXN.C",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fbff8b394d30e22be22de"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "name": "Equipo Central",
+  "userName": "central_team",
+  "email": "equipo@hotelapp.com",
+  "role": "superadmin",
+  "password": "$2b$10$FaOASvlmzB2JPvVEqkoOQeje1pgX20Tce/fRDGn8cyi7l73Qrqrv2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6820de4c4f72a81f6428bfc3"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "name": "Flor Rossi",
+  "userName": "florrossi",
+  "email": "flor@gmail.com",
+  "role": "user",
+  "password": "$2b$10$KkcXkt2IhNybpIuCs3BaducQlrFa5vpQPYYagJ1fx8n/AK/iA/r4S",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6822995e2350c322db70f479"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "name": "Eduardo",
+  "userName": "edu123",
+  "email": "edu@gmail.com",
+  "role": "user",
+  "password": "$2b$10$nVdBWs6qn7j9zHQ94/A9lecQUzEExJoJzdSp9e.15DXtscQyLDcdu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68229eb6339bf8d15ae3fac3"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "name": "Prueba",
+  "userName": "prueba",
+  "email": "test@gmail.com",
+  "role": "user",
+  "password": "$2b$10$8bonCzuZ1dDJhXG2juHrBuUA9yxA3VRl6xhaMKfr2572q8s2qluMu",
+  "__v": 0
+}]

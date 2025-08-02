@@ -1,0 +1,40 @@
+a {
+    text-decoration: none;
+    color: white
+}
+
+.textNav {
+    color: white;
+}
+
+.textNav:hover {
+    color: rgb(248, 229, 226);
+}
+
+.navLateral, .fondo {
+    background-color: #080808fb;
+    border-radius: 12px;
+}
+
+.fondo {
+    background-color: #080808fb;
+    border-radius: 12px;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+h3 {
+    margin-top: 2em;
+}
+
+table, th, td {
+    border-bottom: 1px solid white;
+    border-collapse: collapse;
+    padding: 0.75em 1em;
+}
+
+.endpoint {
+    color: green;
+    text-decoration: underline;
+
+}

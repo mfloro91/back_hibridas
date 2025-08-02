@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "66491aa75c8e4a001fa3b001"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "title": "Spa & Masajes",
+  "description": "Sesiones de relajación con aceites esenciales.",
+  "availableHours": "10:00 - 20:00"
+},
+{
+  "_id": {
+    "$oid": "66491aa75c8e4a001fa3b002"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "title": "Servicio a la habitación",
+  "description": "Pedidos gastronómicos desde la habitación.",
+  "availableHours": "08:00 - 23:00"
+},
+{
+  "_id": {
+    "$oid": "66491aa75c8e4a001fa3b003"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "title": "Excursiones guiadas",
+  "description": "Trekking y recorridos por la reserva natural.",
+  "availableHours": "09:00 - 17:00"
+},
+{
+  "_id": {
+    "$oid": "66491aa75c8e4a001fa3b004"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a003"
+  },
+  "title": "Guardería infantil",
+  "description": "Cuidado de niños con personal especializado.",
+  "availableHours": "08:00 - 18:00"
+},
+{
+  "_id": {
+    "$oid": "66491aa75c8e4a001fa3b005"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a003"
+  },
+  "title": "Alquiler de bicicletas",
+  "description": "Explorá la ciudad en bici con nuestro servicio exclusivo.",
+  "availableHours": "07:00 - 20:00"
+},
+{
+  "_id": {
+    "$oid": "681e9f0d7f1a61753a2ea0d8"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "title": "Spa & Masajes",
+  "description": "Sesiones de relajación con aceites esenciales.",
+  "availableHours": "9:00 - 12:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68268fe5e596ee6d4c5311fb"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "title": "Cuidado de niños",
+  "description": "Un espacio para que los niños se diviertan y los adultos relajen.",
+  "availableHours": "8:00 - 23:00",
+  "__v": 0
+}]

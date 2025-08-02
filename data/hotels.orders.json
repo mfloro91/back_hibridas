@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "66491c345c8e4a001fa3c001"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "service_id": {
+    "$oid": "66491aa75c8e4a001fa3b002"
+  },
+  "room_number": 205,
+  "note": "Sin cebolla en el sándwich, por favor.",
+  "status": "en proceso",
+  "updatedAt": {
+    "$date": "2025-05-13T01:18:15.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66491c345c8e4a001fa3c002"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "service_id": {
+    "$oid": "66491aa75c8e4a001fa3b003"
+  },
+  "room_number": 101,
+  "note": "¿Hay caminatas para adultos mayores?",
+  "status": "completado",
+  "updatedAt": {
+    "$date": "2025-05-11T15:48:33.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66491c345c8e4a001fa3c003"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a003"
+  },
+  "service_id": {
+    "$oid": "66491aa75c8e4a001fa3b005"
+  },
+  "room_number": 312,
+  "note": "",
+  "status": "en proceso",
+  "updatedAt": {
+    "$date": "2025-05-11T15:49:55.383Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66491c345c8e4a001fa3c004"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "service_id": {
+    "$oid": "66491aa75c8e4a001fa3b001"
+  },
+  "room_number": 103,
+  "note": "Masaje descontracturante, si es posible.",
+  "status": "pendiente",
+  "updatedAt": {
+    "$date": "2025-05-11T15:50:14.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e9fa47f1a61753a2ea0e1"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "service_id": {
+    "$oid": "66491aa75c8e4a001fa3b002"
+  },
+  "room_number": 205,
+  "note": "Quiero agregar una coca",
+  "status": "pendiente",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-05-11T15:50:25.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68229f1f74274b536ab46319"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a001"
+  },
+  "service_id": {
+    "$oid": "66491aa75c8e4a001fa3b002"
+  },
+  "room_number": 200,
+  "status": "pendiente",
+  "createdAt": {
+    "$date": "2025-05-13T01:23:43.575Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-13T01:23:43.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682697d8d696cf217eb11ffc"
+  },
+  "hotel_id": {
+    "$oid": "6649189a5c8e4a001fa3a002"
+  },
+  "service_id": {
+    "$oid": "66491aa75c8e4a001fa3b002"
+  },
+  "room_number": 205,
+  "note": "Agregar ensalada",
+  "status": "pendiente",
+  "createdAt": {
+    "$date": "2025-05-16T01:41:44.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T01:41:44.645Z"
+  },
+  "__v": 0
+}]
