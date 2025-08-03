@@ -14,14 +14,17 @@ mongoose.connect(process.env.MONGODB_URI)
 .then(() => console.log("Conexión a Mongo exitosa"))
 .catch((err) => console.log("Error al conectar con Mongo", err));
 
+
 const corsOptions = {
-    origin: '*',
-    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    allowedHeaders: 'Content-Type,Authorization', 
+  origin: "https://front-hibridas.vercel.app/", 
+  credentials: true,
 };
 
+app.use(cors(corsOptions));
+
+
 const app = express();
-app.use(cors());
+
 
 const PORT = 3000;
 const __filename = fileURLToPath(import.meta.url);
