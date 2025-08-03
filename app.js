@@ -15,8 +15,10 @@ mongoose.connect(process.env.MONGODB_URI)
 .catch((err) => console.log("Error al conectar con Mongo", err));
 
 const corsOptions = {
+    origin:  "https://front-hibridas.vercel.app",
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     allowedHeaders: 'Content-Type,Authorization', 
+    credentials: true,
 };
 
 const app = express();
